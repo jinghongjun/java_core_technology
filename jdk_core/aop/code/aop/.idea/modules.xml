@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_refactoring_01/code_refactoring_01.iml" filepath="$PROJECT_DIR$/.idea/modules/code_refactoring_01/code_refactoring_01.iml" group="code_refactoring_01" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_refactoring_01/code_refactoring_01_main.iml" filepath="$PROJECT_DIR$/.idea/modules/code_refactoring_01/code_refactoring_01_main.iml" group="code_refactoring_01" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_refactoring_01/code_refactoring_01_test.iml" filepath="$PROJECT_DIR$/.idea/modules/code_refactoring_01/code_refactoring_01_test.iml" group="code_refactoring_01" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_refactoring_02/code_refactoring_02.iml" filepath="$PROJECT_DIR$/.idea/modules/code_refactoring_02/code_refactoring_02.iml" group="code_refactoring_02" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_refactoring_02/code_refactoring_02_main.iml" filepath="$PROJECT_DIR$/.idea/modules/code_refactoring_02/code_refactoring_02_main.iml" group="code_refactoring_02" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_refactoring_02/code_refactoring_02_test.iml" filepath="$PROJECT_DIR$/.idea/modules/code_refactoring_02/code_refactoring_02_test.iml" group="code_refactoring_02" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_refactoring_03/code_refactoring_03.iml" filepath="$PROJECT_DIR$/.idea/modules/code_refactoring_03/code_refactoring_03.iml" group="code_refactoring_03" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_refactoring_03/code_refactoring_03_main.iml" filepath="$PROJECT_DIR$/.idea/modules/code_refactoring_03/code_refactoring_03_main.iml" group="code_refactoring_03" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_refactoring_03/code_refactoring_03_test.iml" filepath="$PROJECT_DIR$/.idea/modules/code_refactoring_03/code_refactoring_03_test.iml" group="code_refactoring_03" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_refactoring_04/code_refactoring_04.iml" filepath="$PROJECT_DIR$/.idea/modules/code_refactoring_04/code_refactoring_04.iml" group="code_refactoring_04" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_refactoring_04/code_refactoring_04_main.iml" filepath="$PROJECT_DIR$/.idea/modules/code_refactoring_04/code_refactoring_04_main.iml" group="code_refactoring_04" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_refactoring_04/code_refactoring_04_test.iml" filepath="$PROJECT_DIR$/.idea/modules/code_refactoring_04/code_refactoring_04_test.iml" group="code_refactoring_04" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-aop.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-aop_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-aop_main.iml" group="spring-aop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-aop_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-aop_test.iml" group="spring-aop" />
+    </modules>
+  </component>
+</project>
